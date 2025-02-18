@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/blue_light"
+    android:padding="16dp"
+    >
+
+    <Button
+        android:id="@+id/button_record_voice"
+        android:layout_width="500sp"
+        android:layout_height="250sp"
+        android:text="🎙 Записать голосовое" />
+
+    <TextView
+        android:id="@+id/text_voice_input"
+        android:layout_width="500sp"
+        android:layout_height="250sp"
+        android:text="Голосовой ввод появится здесь..."
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button_send_voice"
+        android:layout_width="500sp"
+        android:layout_height="250sp"
+        android:text="📤 Отправить голосовое"
+        android:visibility="gone"
+         />
+</LinearLayout>

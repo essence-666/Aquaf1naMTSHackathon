@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276356886021",
+    "project_id": "mtsapplication-ec85d",
+    "storage_bucket": "mtsapplication-ec85d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276356886021:android:ca2108c844150bbf5d366c",
+        "android_client_info": {
+          "package_name": "ru.home.mtsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "CURRENT KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_processed"
+        android:icon="@drawable/ic_done"
+        android:title="Обработанные"/>
+    <item
+        android:id="@+id/nav_pending"
+        android:icon="@drawable/ic_warning"
+        android:title="На доработку"/>
+    <item
+        android:id="@+id/nav_spam"
+        android:icon="@drawable/ic_spam"
+        android:title="Не обработанная"/>
+</menu>

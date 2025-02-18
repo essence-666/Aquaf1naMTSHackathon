@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_chat">
+
+    <fragment
+        android:id="@+id/navigation_chat"
+        android:name="ru.home.mtsapplication.ui.voice.VoiceFragment"
+        android:label="Чат"
+        tools:layout="@layout/fragment_voice" />
+
+    <fragment
+        android:id="@+id/navigation_requests"
+        android:name="ru.home.mtsapplication.ui.requests.RequestsFragment"
+        android:label="Заявки"
+        tools:layout="@layout/fragment_requests" />
+
+    <fragment
+        android:id="@+id/navigation_requestList"
+        android:name="ru.home.mtsapplication.ui.requests.ListFragment"
+        android:label="Твои заявки"
+        tools:layout="@layout/fragment_list_requests"
+        />
+
+</navigation>
