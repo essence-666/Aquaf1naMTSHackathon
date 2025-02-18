@@ -142,21 +142,22 @@ pip install -r requirements.txt && python3 main.py
 
 ## Демонстрация приложения
 
-![Аутентификация](https://drive.google.com/file/d/1BVc0R0R53vZ1igzBPoPdpN5Oiij2gZMC/view?usp=drive_link)
+![Аутентификация](images/1.jfif)
 
-![Создание текстовой заявки](https://drive.google.com/file/d/1pXaAKlxjf6_VrJgUV2HwIfSSxI_9vykP/view?usp=drive_link)
+![Создание текстовой заявки](images/2.jfif)
 
-![Создание голосовой заявки](https://drive.google.com/file/d/1MyFttRWYcYt7sUMJOcV-CXJj2gce_UUM/view?usp=drive_link)
+![Создание голосовой заявки](images/3.jfif)
 
-![Отправить голосовую заявку](https://drive.google.com/file/d/1iCGVHsm4uGcmRAbFfpvRhRjuIMAFdS97/view?usp=drive_link)
+![Отправить голосовую заявку](images/4.jfif)
 
-![Обработанные заявки](https://drive.google.com/file/d/1OX5XfhoAH9PcJ9JKdyYM-dXujBBpEshr/view?usp=drive_link)
+![Обработанные заявки](images/5.jfif)
 
-![Админ панель (скрин 1)](https://drive.google.com/file/d/18vpNKI_k1g-zsk6VuXBPmTJzOcgA7G7M/view?usp=drive_link)
+![Админ панель (скрин 1)](images/6.jfif)
 
-![Админ панель (скрин 2)](https://drive.google.com/file/d/1uacxh3Q2Pp_-5D9CZxKikW8mEo_26vLP/view?usp=drive_link)
+![Админ панель (скрин 2)](images/7.jfif)
 
-![Админ панель (скрин 3)](https://drive.google.com/file/d/1t_c6ikIHFkkSEi4tDYDWSQvBBirIxFyI/view?usp=drive_link)
+![Админ панель (скрин 3)](images/8.jfif)
+
 
 
 Это первая страница, которая встречает вас на запуске. Вы можете перейти и зарегистрировать нового пользователя по кнопке "Go to register page". Потом есть 2 пути: 
