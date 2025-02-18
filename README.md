@@ -156,7 +156,6 @@ pip install -r requirements.txt && python3 main.py
 
 ![Админ панель (скрин 2)](images/7.jfif)
 
-![Админ панель (скрин 3)](images/8.jfif)
 
 
 
