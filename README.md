@@ -105,8 +105,8 @@
 ## Сборка без Docker
 Или, если вы не хотите использовать Docker, необходимо установить зависимости и запустить Python-файл
     ```bash
-    pip install -r requirements.txt
-    python3 main.py
+   pip install -r requirements.txt 
+   python3 main.py
 
 ## Сборка Docker-образа вручную
 
