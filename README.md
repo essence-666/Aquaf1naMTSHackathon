@@ -142,7 +142,7 @@ pip install -r requirements.txt && python3 main.py
 
 ## Демонстрация приложения
 
-![Аутентификация](images/1.jfif  =100x20)
+![Аутентификация](images/1.jfif)
 
 ![Создание текстовой заявки](images/2.jfif)
 
