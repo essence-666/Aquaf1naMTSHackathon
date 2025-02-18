@@ -103,10 +103,11 @@
     docker run --rm --name api -d -p 5000:5000 essence666/hackathon_api:mvp2
 
 ## Сборка без Docker
-Или, если вы не хотите использовать Docker, необходимо установить зависимости и запустить Python-файл
-    ```bash
-   pip install -r requirements.txt 
-   python3 main.py
+Или, если вы не хотите использовать Docker, необходимо установить зависимости и запустить Python-файл:
+
+```bash
+pip install -r requirements.txt && python3 main.py
+```
 
 ## Сборка Docker-образа вручную
 
